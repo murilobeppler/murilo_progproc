@@ -31,4 +31,6 @@ int main()
         }
     }
     fputs(frase, stdout);
+    
+    return 0;
 }
